@@ -1,4 +1,4 @@
-# event_manager
+# Event_manager
 
 # Assignment
 Part 1: Clean phone numbers
